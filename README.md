@@ -5,7 +5,7 @@
 ## Project Overview
 This is a *Cab Booking System* developed in *Java* using *JDBC* for database connectivity with *MySQL*.  
 The system allows users to:
-- View available cabs
+- View available cabs in localities
 - Book a cab
 - View booking history
 
