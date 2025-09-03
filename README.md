@@ -9,7 +9,7 @@ The system allows users to:
 - Book a cab
 - View booking history
 
-It demonstrates the use of *Object-Oriented Programming in Java, **database integration, and **basic CRUD operations*.
+It demonstrates the use of *Object-Oriented Programming in Java*, *database integration*, and *basic CRUD operations*.
 
 ---
 
